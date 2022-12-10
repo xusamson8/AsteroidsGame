@@ -12,4 +12,3 @@ class Star //note that this class does NOT extend Floater
     ellipse(myX,myY,(int)(Math.random()*5),(int)(Math.random()*5));
   }
 }
-
