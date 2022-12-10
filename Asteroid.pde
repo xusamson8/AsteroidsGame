@@ -21,7 +21,7 @@ class Asteroid extends Floater
  }
  
 
-  public double getX(){ //accessor, returns int
+ public double getX(){ //accessor, returns int
    return myCenterX; 
   }
 
